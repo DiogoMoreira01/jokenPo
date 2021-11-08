@@ -1,7 +1,7 @@
 # jokenpo
 
 ![Badge](https://img.shields.io/static/v1?label=Dart&message=41.1%&color=blue&style=flat&logo=)
-![Badge](https://img.shields.io/static/v1?label=HTML&message=3.6%&color=orange&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=HTML&message=37.6%&color=orange&style=flat&logo=)
 ![Badge](https://img.shields.io/static/v1?label=Objective-c&message=6.1%&color=green&style=flat&logo=)
 ![Badge](https://img.shields.io/static/v1?label=Shell&message=5.2%&color=yellow&style=flat&logo=)
 ![Badge](https://img.shields.io/static/v1?label=Java&message=4.9%&color=red&style=flat&logo=)
